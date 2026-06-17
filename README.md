@@ -1,2 +1,9 @@
 # simula-o
-Este é um GDD sobre um jogo de simulação, um projeto do professor Marcelo que está sendo organizado e criado pelas alunas Angela,Inês,Izabella e Milene 
+RESUMO:
+Este é um jogo de simulação de fazenda 2d 
+
+OBJETIVO:
+o jogo tem como objetivo simular uma vida na fazenda e as tarefas ardúas que tem
+
+HISTÓRIA:
+
