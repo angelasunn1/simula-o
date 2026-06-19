@@ -26,13 +26,18 @@ HISTÓRIA
 Uma jovem chamada Mabi está viajando de carro em uma estrada isolada quando seu veículo começa a apresentar problemas mecânicos. Quando o carro para completamente, deixando Mabi perdida em um local desconhecido.
 Enquanto procura ajuda, ela encontra uma fazenda próxima e decide pedir auxílio. A proprietária da fazenda, uma mulher gentil e acolhedora, oferece abrigo e se compromete a consertar o carro. Em troca, a jovem decide ajudar nas tarefas da fazenda durante sua estadia.
 Com o passar dos dias, a protagonista conhece os funcionários e moradores da região, criando novas amizades e aprendendo sobre a vida no campo. Ela descobre como plantar e colher diferentes culturas, cuidar dos animais, produzir itens para venda e participar das atividades da comunidade local.
-À medida que ajuda a fazenda a prosperar, a jovem desenvolve novas habilidades, ganha experiência e conhece as histórias e desafios de cada personagem. O que começou como um simples acidente na estrada se transforma em uma jornada de crescimento, amizade e descobertas, fazendo com que ela enxergue a vida de uma maneira completamente diferente.
+À medida que ajuda a fazenda a prosperar, a jovem desenvolve novas habilidades, ganha experiência e conhece as histórias e desafios de cada personagem. O que começou como um simples acidente na estrada se transforma em uma jornada de crescimento, amizade e descobertas, fazendo com que ela enxergue a vida de uma maneira completamente diferente.No final a jovem decidirá entre permanecer na fazenda ou continuar a sua viagem.
 
 
 MECÂNICAS
 
-Plantar, regar e colher culturas.
-Cuidar de animais da fazenda.
+Agricultura: plantar, regar e colher culturas.
+Animais: alimentar, cuidar e coletar produtos.
+Comércio: vender produtos na feira e atender pedidos.
+Relacionamentos: conversar com moradores, fazer amizades e completar missões.
+Gestão: construir e melhorar áreas da fazenda.
+Exploração: descobrir novos locais e coletar recursos.
+Progressão: ganhar experiência, subir de nível e desbloquear conteúdos.
 
 PERSONAGENS PRINCIPAIS
 
