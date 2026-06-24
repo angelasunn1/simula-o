@@ -40,10 +40,71 @@ Exploração: descobrir novos locais e coletar recursos.
 Progressão: ganhar experiência, subir de nível e desbloquear conteúdos.
 
 PERSONAGENS PRINCIPAIS
+Milene
 
-A Protagonista: viajante que fica presa na fazenda após a quebra do carro.
-Dona Milene: proprietária da fazenda, gentil e experiente.
-Moradores da Fazenda: cada um possui personalidade, histórias e missões próprias.
+Função:Proprietária da fazenda
+Aparência:Mulher adulta, cabelos ruivos longos, chapéu de palha e roupas de fazendeira.
+Habilidades:Administração da fazenda, agricultura avançada e reparos básicos.
+
+Izabella
+
+Função:Cuidadora dos animais
+Aparência:Jovem de cabelos castanhos em trança, jardineira jeans e botas.
+Habilidades:Cuidar de animais, tratar doenças e aumentar a produção animal.
+
+Angela
+
+Função:Vendedora da feirinha
+Aparência:Mulher de cabelos cacheados castanhos, vestido florido e chapéu de palha.
+Habilidades:Comércio, negociação e organização de eventos da feira.
+
+Mabi
+
+Função:Protagonista
+Aparência:Jovem viajante, cabelos castanhos, roupas casuais e mochila.
+Habilidades:Aprende agricultura, criação de animais, comércio e outras atividades conforme progride no jogo.
+
+Adriano
+
+Função: Faz-tudo da fazenda
+Aparência: Camisa xadrez, luvas e ferramentas.
+Habilidades: Construções, melhorias e reparos.
+
+Marcelo
+
+Função: Pescador local
+Aparência: Boné, colete e vara de pesca.
+Habilidades: Ensina pesca e ajuda a encontrar itens raros.
+
+Dona Marta
+
+Função: Padeira da vila
+Aparência: Avental branco e cabelos grisalhos.
+Habilidades: Receitas, culinária e produção de alimentos.
+
+josé
+
+Função: Guarda-florestal
+Aparência: Uniforme verde e mochila.
+Habilidades: Exploração, coleta de recursos e orientação.
+
+Sofia
+
+Função: Moradora da vila
+Aparência: Cabelos loiros presos e vestido azul.
+Habilidades: Oferece missões e informações sobre a região.
+
+Bingo
+
+Função: Cachorro da fazenda
+Aparência: Cachorro marrom e branco.
+Habilidades: Encontra objetos perdidos e acompanha o jogador.
+
+Luna
+
+Função: Gata da fazenda
+Aparência: Gata preta com patas brancas e olhos verdes.
+Habilidades: Encontra itens escondidos, revela locais secretos e aumenta a sorte do jogador.
 
 DIFERENCIAL:
 História envolvente: a protagonista não escolhe viver na fazenda; ela acaba chegando lá após seu carro quebrar, tornando a experiência mais natural e interessante.
@@ -57,3 +118,105 @@ Visual 2D aconchegante: gráficos coloridos e ambiente acolhedor que transmitem 
 Escolhas que influenciam a história: as amizades construídas e as decisões tomadas podem desbloquear diálogos, missões e finais diferentes.
 Aprendizado sobre a vida rural: o jogo apresenta de forma divertida atividades reais da agricultura e da criação de animais.
 
+Sistema de Progressão
+
+O sistema de progressão permite que o jogador evolua suas habilidades e desenvolva a fazenda ao longo do jogo. Ao realizar atividades diárias, completar missões e ajudar os moradores, o jogador ganha Experiência (XP), sobe de nível e desbloqueia novos conteúdos.
+Níveis
+
+Cada nível alcançado concede recompensas e acesso a novas funcionalidades.
+
+Nível 1 – Iniciante
+Ferramentas básicas.
+Pequena área de cultivo.
+Acesso aos animais iniciais.
+
+Nível 5 – Aprendiz Rural
+Novas sementes.
+Ampliação da área de plantio.
+Primeiras melhorias na fazenda.
+
+Nível 10 – Fazendeiro
+Novos animais.
+Ferramentas aprimoradas.
+Desbloqueio da feira local.
+
+Nível 15 – Especialista
+Plantações raras.
+Construções avançadas.
+Novas missões da história.
+
+Nível 20 – Mestre da Fazenda
+Áreas secretas.
+Eventos exclusivos.
+Itens especiais e recompensas únicas.
+
+Experiência (XP)
+O jogador ganha XP ao:
+
+Plantar, regar e colher culturas.
+Alimentar e cuidar dos animais.
+Produzir itens para venda.
+Vender produtos na feira.
+Completar missões principais e secundárias.
+Explorar novas áreas.
+Participar de eventos e festivais.
+
+Habilidades
+As habilidades aumentam conforme são utilizadas.
+
+Agricultura
+Produção mais rápida.
+Maior qualidade das colheitas.
+
+Criação de Animais
+Animais mais felizes.
+Maior produção de leite, ovos e lã.
+
+Comércio
+Melhores preços de venda.
+Novas oportunidades de negócio.
+
+Exploração
+Descoberta de recursos raros.
+Acesso a áreas especiais.
+
+Conquistas
+O jogador pode desbloquear conquistas especiais:
+
+ Primeira Colheita.
+Primeiro Animal.
+Fazendeiro Iniciante.
+Amigo da Fazenda.
+Comerciante de Sucesso.
+Mestre dos Animais.
+Explorador Rural.
+Fazenda dos Sonhos.
+Lenda da Fazenda.
+
+Desbloqueios
+
+Conforme evolui, o jogador desbloqueia:
+
+Novas sementes e culturas.
+Árvores frutíferas.
+Animais raros.
+Ferramentas melhores.
+Celeiros e galinheiros maiores.
+Decorações para a fazenda.
+Novas áreas de exploração.
+Eventos sazonais.
+Missões especiais dos moradores.
+
+Recompensas
+
+Ao subir de nível ou completar conquistas, o jogador recebe:
+Moedas.
+Itens raros.
+Ferramentas exclusivas.
+Decorações.
+Novas roupas para a protagonista.
+Títulos especiais.
+
+Objetivo Final
+
+O objetivo é transformar a pequena fazenda em uma propriedade próspera, criar fortes laços com os moradores e decidir o futuro da protagonista: continuar sua viagem ou permanecer na fazenda para começar uma nova vida. 
