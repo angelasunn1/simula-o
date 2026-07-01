@@ -219,4 +219,48 @@ Títulos especiais.
 
 Objetivo Final
 
-O objetivo é transformar a pequena fazenda em uma propriedade próspera, criar fortes laços com os moradores e decidir o futuro da protagonista: continuar sua viagem ou permanecer na fazenda para começar uma nova vida. 
+O objetivo é transformar a pequena fazenda em uma propriedade próspera, criar fortes laços com os moradores e decidir o futuro da protagonista: continuar sua viagem ou permanecer na fazenda para começar uma nova vida.
+
+Engine
+Engine:Unity
+Plataforma amplamente utilizada para desenvolvimento de jogos 2D e 3D, oferecendo diversas ferramentas para criação, animação e gerenciamento de projetos.
+
+Linguagem de Programação
+C#
+Linguagem oficial da Unity, utilizada para programar mecânicas, sistemas, personagens, missões e interfaces do jogo.
+
+Requisitos Mínimos
+
+Sistema Operacional:
+Windows 10 (64 bits)
+
+Processador:
+Intel Core i3 ou equivalente
+
+Memória RAM:
+4 GB
+
+Placa de Vídeo:
+Compatível com DirectX 10
+
+Armazenamento:
+1 GB de espaço livre
+
+Requisitos Recomendados
+
+Sistema Operacional:
+Windows 11 (64 bits)
+
+Processador:
+Intel Core i5 ou equivalente
+
+Memória RAM:
+8 GB
+
+Placa de Vídeo:
+2 GB de VRAM ou superior
+
+Armazenamento:
+2 GB de espaço livre
+
+Essas especificações são adequadas para um jogo de simulação de fazenda 2D com agricultura, criação de animais, missões, exploração e relacionamentos entre personagens. 🌾🚜🐄✨
