@@ -1,4 +1,4 @@
-# Country Detour
+# Dream Sheep Valley
 Gênero: Simulação / Fazenda / Casual
 Estilo: 2D
 
@@ -10,7 +10,7 @@ PÚBLICO-ALVO:crianças e adolescentes entre 9 e 12 anos
 
 RESUMO
 
-(    ) é um jogo de simulação de fazenda em 2D focado na agricultura, criação de animais, exploração e construção de relacionamentos com os moradores da região. O jogador poderá plantar e colher diversos tipos de culturas, cuidar de animais, produzir itens para venda, participar de eventos sazonais e completar missões que ajudam a desenvolver a fazenda e a história.
+Dream Sheep Valley é um jogo de simulação de fazenda em 2D focado na agricultura, criação de animais, exploração e construção de relacionamentos com os moradores da região. O jogador poderá plantar e colher diversos tipos de culturas, cuidar de animais, produzir itens para venda, participar de eventos sazonais e completar missões que ajudam a desenvolver a fazenda e a história.
 
 Ao longo da jornada, o jogador conhecerá diferentes personagens, cada um com sua própria personalidade, rotina e história. Ao criar amizades e ajudar os moradores, novas missões, diálogos e recompensas serão desbloqueados. Além da administração da fazenda, o jogo oferece uma experiência acolhedora e envolvente, incentivando a descoberta de segredos locais, o aprimoramento de habilidades e a construção de uma nova vida no campo.
 
