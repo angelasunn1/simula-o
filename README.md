@@ -64,7 +64,7 @@ Função: Pescador local
 Aparência: Boné, colete e vara de pesca.
 Habilidades: Ensina pesca e ajuda a encontrar itens raros.
 
-Dona Nilda:
+Dona Gracinha:
 Função: Padeira da vila
 Aparência: Avental branco e cabelos grisalhos.
 Habilidades: Receitas, culinária e produção de alimentos.
