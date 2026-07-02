@@ -16,8 +16,12 @@ O jogo tem como objetivo ajudar na administração da fazenda onde a protagonist
 
 
 HISTÓRIA:
-Em uma viagem, os pais de Mabi morrem em um acidente de trânsito, a deixando órfã. Sendo menor de idade, mabi precisa ir morar com sua tia Milene, proprietaria de uma fazenda próxima a um vilarejo. Lá ela aprende e desenvolve técnicas de agricultura, pesca, relacionamentos e melhorias para a fazenda. Com o passar do tempo, Mabi explora mistérios do vilarejo e da sua própria família, segredos antigos sendo desenterrados... Com o passar do tempo, a protagonista ganha moedas de troca, presentes, etc. 
 
+Após perder seus pais em um trágico acidente de trânsito durante uma viagem, Mabi se vê sozinha e sem ter para onde ir. Por ser menor de idade, ela passa a viver com sua tia Milene, proprietária de uma fazenda localizada próxima a um pequeno e misterioso vilarejo.
+No início, Mabi tem dificuldades para se adaptar à nova vida, mas aos poucos aprende a cultivar plantações, cuidar dos animais, pescar, negociar produtos e melhorar a fazenda ao lado dos moradores locais. Durante sua jornada, ela desenvolve novas habilidades, faz amizades e descobre o valor da vida no campo.
+Conforme os dias passam, Mabi começa a investigar acontecimentos estranhos no vilarejo e encontra pistas sobre o passado de sua família. Antigos segredos, histórias esquecidas e mistérios escondidos há muitos anos começam a surgir, revelando que a morte de seus pais pode estar ligada a acontecimentos muito maiores do que ela imaginava.
+Ao completar tarefas, ajudar os moradores e explorar novas áreas, a protagonista recebe moedas, itens raros, presentes e recompensas especiais que auxiliam no crescimento da fazenda e no avanço da história.
+Cabe ao jogador decidir como administrar a fazenda, construir relacionamentos e desvendar os mistérios que cercam o vilarejo e a família de Mabi.
 
 MECÂNICAS:
 Agricultura: plantar, regar e colher culturas.
@@ -60,7 +64,7 @@ Função: Pescador local
 Aparência: Boné, colete e vara de pesca.
 Habilidades: Ensina pesca e ajuda a encontrar itens raros.
 
-Dona Marta:
+Dona Nilda:
 Função: Padeira da vila
 Aparência: Avental branco e cabelos grisalhos.
 Habilidades: Receitas, culinária e produção de alimentos.
@@ -70,7 +74,7 @@ Função: Guarda-florestal
 Aparência: Uniforme verde e mochila.
 Habilidades: Exploração, coleta de recursos e orientação.
 
-Sofia:
+Maria:
 Função: Moradora da vila
 Aparência: Cabelos loiros presos e vestido azul.
 Habilidades: Oferece missões e informações sobre a região.
@@ -197,13 +201,59 @@ Títulos especiais.
 Objetivo Final:
 O objetivo é transformar a pequena fazenda em uma propriedade próspera, criar fortes laços com os moradores e decidir o futuro da protagonista: continuar sua viagem ou permanecer na fazenda para começar uma nova vida.
 
+Arte:
+O jogo utiliza um estilo 2D com visual aconchegante e colorido, inspirado na vida no campo. Os cenários possuem tons suaves, vegetação detalhada, animais expressivos e construções rústicas. O objetivo é transmitir tranquilidade, conforto e sensação de pertencimento ao mundo rural.
+
+Menu Principal:
+O menu principal apresenta o logotipo Dream Sheep Valley em destaque, acompanhado da protagonista observando o vale. As opções disponíveis são:
+Joga
+Continuar
+Carregar Jogo
+Opções
+Créditos
+Sair
+O fundo mostra a fazenda e o vilarejo, reforçando a atmosfera acolhedora do jogo.
+
+Visual Característico do Jogo:
+A interface exibe informações importantes durante a jogatina:
+Retrato da protagonista.
+Barra de energia e saúde.
+Relógio e calendário.
+Quantidade de moedas.
+Barra de atalhos para ferramentas e itens.
+Ambiente vivo com plantações, animais e rios.
+O mapa possui diversas áreas exploráveis, incluindo fazendas, florestas, lagos e o vilarejo.
+
+Inventário:
+O inventário é organizado em uma grade de espaços onde o jogador pode armazenar:
+Sementes.
+Colheitas.
+Recursos naturais.
+Produtos de origem animal.
+Ferramentas.
+Materiais de construção.
+Presentes e itens especiais.
+Cada item possui descrição, quantidade e valor de venda.
+
+Conquistas:
+O sistema de conquistas recompensa o progresso do jogador e incentiva a exploração.
+Exemplos de conquistas:
+Primeiro Dia: sobreviva ao primeiro dia na fazenda.
+Primeira Colheita: realize sua primeira colheita.
+Amiga dos Animais: alcance amizade máxima com um animal.
+Pescadora Iniciante: capture seu primeiro peixe.
+Exploradora: descubra novas áreas do vale.
+Mistérios do Vale: encontre pistas sobre os segredos da região.
+Fazenda dos Sonhos: melhore completamente a fazenda.
+Melhor Amiga: alcance amizade máxima com um morador.
+
 Engine:
 Engine:Unity
 Plataforma amplamente utilizada para desenvolvimento de jogos 2D e 3D, oferecendo diversas ferramentas para criação, animação e gerenciamento de projetos.
 
 Linguagem de Programação:
-C#
-Linguagem oficial da Unity, utilizada para programar mecânicas, sistemas, personagens, missões e interfaces do jogo.
+Python
+utilizada para programar mecânicas, sistemas, personagens, missões e interfaces do jogo.
 
 Requisitos Mínimos:
 Sistema Operacional:
