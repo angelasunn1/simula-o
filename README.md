@@ -206,12 +206,12 @@ O jogo utiliza um estilo 2D com visual aconchegante e colorido, inspirado na vid
 
 Menu Principal:
 O menu principal apresenta o logotipo Dream Sheep Valley em destaque, acompanhado da protagonista observando o vale. As opções disponíveis são:
-Joga
-Continuar
-Carregar Jogo
-Opções
-Créditos
-Sair
+Joga,
+Continuar,
+Carregar Jogo,
+Opções,
+Créditos,
+Sair,
 O fundo mostra a fazenda e o vilarejo, reforçando a atmosfera acolhedora do jogo.
 
 Visual Característico do Jogo:
